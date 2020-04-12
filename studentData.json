@@ -1,0 +1,175 @@
+
+[{
+        "id"       : "0",
+        "name"  :       "admin",
+        "email"    : "admin@gmail.com",
+        "password" : "123",
+        "contact"  : "8187836012",
+        "address"  : "nellore",
+        "comments" : "",
+        "role"     : "admin"
+      },
+        {
+          "id"       : "1",
+          "name":"student1",
+                
+          "email"    : "student1@gmail.com",
+          "password" : "123",
+          "contact"  : "8187836012",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+          "id"       : "2",
+          "name": "student2",
+          
+          "email"    : "student2@gmail.com",
+          "contact"  : "8187836012",
+          "password"  : "123",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+          "id"       : "3",
+          "name": "student3",
+          
+          "email"    : "student3@gmail.com",
+          "password" : "123",
+          "contact"  : "8187836012",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+          "id"       : "4",
+          "name": "student4",
+        
+          "email"    : "student4@gmail.com",
+          "password" : "123",
+          "contact"  : "8187836012",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+          "id"       : "5",
+          "name": "student5 ",
+          
+          "email"    : "student5@gmail.com",
+          "password" : "123",
+          "contact"  : "8187836012",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+          "id"       : "6",
+          "name": "student6",
+
+          "email"    : "student6@gmail.com",
+          "password" : "123",
+          "contact"  : "8187836012",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+                "id"       : "7",
+                "name": "student7",
+                
+                "email"    : "student7@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+                "id"       : "8",
+                "name" : "student8",
+                "email"    : "student8@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+                "id"       : "9",
+                "name": "student9",
+                
+                "email"    : "student9@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+          "id"       : "10",
+          "name": "student10",
+                
+                "email"    : "student10@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+          "id"       : "11",
+          "name": "student11",
+                
+                "email"    : "student11@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+          "id"       : "12",
+          "name": "student12",
+          
+          "email"    : "student12@gmail.com",
+          "password" : "123",
+          "contact"  : "8187836012",
+          "address"  : "nellore",
+          "comments" : "",
+          "role"     : "student"
+        },
+        {
+          "id"       : "13",
+          "name": "student13",
+                
+                "email"    : "student13@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+          "id"       : "14",
+                "name" : "student14",
+                "email"    : "student14@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        },
+        {
+          "id"       : "15",
+          "name": "student15",
+                
+                "email"    : "student15@gmail.com",
+                "password" : "123",
+                "contact"  : "8187836012",
+                "address"  : "nellore",
+                "comments" : "",
+                "role"     : "student"
+        }
+      ]
